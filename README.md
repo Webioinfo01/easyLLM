@@ -13,6 +13,12 @@ storm 提供了完整的部署方法。
 
 
 
+# LLM 资源
+
+- [kkkunny/free-llm-collect: 搜集免费的LLM（大语言模型）API（GPT、Claude、BingCopilot、Llama、Gemini）](https://github.com/kkkunny/free-llm-collect)
+- [OpenRouter](https://openrouter.ai/)
+  - 可以通过free 搜索，或升序选择便宜的模式：[Models: 'free' | OpenRouter](https://openrouter.ai/models?order=pricing-low-to-high&q=free)
+
 # 其他资料
 
 1. [AutoSurveys/AutoSurvey](https://github.com/AutoSurveys/AutoSurvey)
